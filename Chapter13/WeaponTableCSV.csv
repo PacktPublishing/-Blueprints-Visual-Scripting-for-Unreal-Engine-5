@@ -1,0 +1,6 @@
+---,Name,Category,Damage,Fire Rate,Range,Accuracy
+1,"Desert Eagle","Pistol","30","0.200000","0.300000","0.600000"
+2,"M1887","Shotgun","60","0.300000","0.100000","0.500000"
+3,"Uzi","Submachinegun","40","0.500000","0.400000","0.700000"
+4,"AK-47","Assault Rifle","50","0.600000","0.500000","0.800000"
+5,"Dragunov SVD","Sniper Rifle","70","0.300000","1.000000","0.900000"
