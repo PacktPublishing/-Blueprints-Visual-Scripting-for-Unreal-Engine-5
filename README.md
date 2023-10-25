@@ -27,7 +27,7 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Instructions and Navigations
 All of the code is organized into folders. 
 
-## Disclaimer
+## Author's Note
 In the examples of the book, the First Person and Third Person templates are used a lot. Epic Games modified these templates. These changes do not affect the examples that create new Blueprints, but affect the examples that modify the Blueprints of these templates.
 
 Part 2 and part 3 (chapters 5 to 12) of the book consist of the step-by-step development of a game based on the First Person template.
