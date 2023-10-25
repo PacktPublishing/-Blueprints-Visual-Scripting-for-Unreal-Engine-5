@@ -35,6 +35,7 @@ Part 2 and part 3 (chapters 5 to 12) of the book consist of the step-by-step dev
 The recommendation is to get the chapter 5 project from the source code and keep following the book using this project until chapter 12, because you will find in the project everything that is shown in the images of the book.
 
 
+
 **Following is what you need for this book:**
 This book is for anyone interested in developing games or applications with UE5. Although basic knowledge of Windows OS is required, experience in programming or UE5 is not necessary.
 
